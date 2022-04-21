@@ -164,7 +164,7 @@ body {
   padding: 10px 1px;
   border: 0;
   border-bottom: 1px solid #747474;
-  outline: none;
+  outline: none; 
   -webkit-transition: all .2s;
   transition: all .2s;
 }
